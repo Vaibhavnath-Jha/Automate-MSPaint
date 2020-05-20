@@ -1,5 +1,5 @@
 # Automate-MSPaint
-Python program which automatically draws figures in MSPaint.
+*Python program which automatically draws figures in MSPaint.*
 
 ### PNG Files
 Contains Example images and three color shades.
