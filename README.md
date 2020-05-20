@@ -3,8 +3,8 @@ Python program which automatically draws figures in MSPaint.
 
 ### circle.py
 Contains logic to define a circle. 
-//Parameters can be tuned accordingly.
-depending on parameters, number of circles and gap between two circles can be adjusted.
+ //Parameters can be tuned accordingly.
+ depending on parameters, number of circles and gap between two circles can be adjusted.
 (additional png files change the colors of circles.)
 
 ### quadrilateral.py
