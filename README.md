@@ -1,6 +1,9 @@
 # Automate-MSPaint
 Python program which automatically draws figures in MSPaint.
 
+### PNG Files
+Contains Example images and three color shades.
+
 ### circle.py
 Contains logic to define a circle. 
  //Parameters can be tuned accordingly.
